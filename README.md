@@ -47,5 +47,3 @@
 <img src="https://raw.githubusercontent.com/M-Seiti/M-Seiti/output/snake.svg" alt="Snake animation" />
 
 ###
-
-atualize isso para meu nome de usuario
