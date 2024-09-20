@@ -1,1 +1,32 @@
+name: Generate Snake
+
+# O workflow será acionado automaticamente todos os dias às 00:00 UTC
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # Também pode ser acionado manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Baixar o repositório
+      - uses: actions/checkout@v2
+
+      # Gerar a animação
+      - name: Generate Snake animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: M-Seiti  # Substitua pelo seu usuário
+          outputs: dist/snake.svg
+
+      # Fazer push do SVG gerado para o branch `output`
+      - name: Push Snake animation to the output branch
+        run: |
+          git config --global user.name 'M-Seiti'
+          git config --global user.email 'seu-email@exemplo.com'
+          git add dist/snake.svg
+          git commit -m "Generated Snake animation"
+          git push origin output
 
