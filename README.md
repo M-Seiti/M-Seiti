@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/M-Seiti/M-Seiti/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/M-Seiti/M-Seiti/blob/output/dist/snake.svg)
 
 ###
