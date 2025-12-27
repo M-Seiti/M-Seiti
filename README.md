@@ -42,5 +42,5 @@
 ---
 
 ### 📫 Contact
-- LinkedIn: (add your link)
-- Email: (add your email)
+- LinkedIn: https://www.linkedin.com/in/matheus-seiti-vicente-matsuoka-3818bb323/
+- Email: seitimatheus@gmail.com
