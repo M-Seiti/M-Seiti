@@ -14,7 +14,7 @@
 ---
 
 ### 🧰 Tech Stack (Data)
-- **Python** (Pandas, Matplotlib), **SQL**
+- **Python** (Pandas, Matplotlib, Streamlit, Plotly, sqlalchemy), **SQL**
 - **ETL / Data Pipelines** (CSV/APIs → transform → load)
 - **Jupyter Notebooks**
 - **BI**: Tableau (learning), Looker Studio (learning), Superset (learning)
