@@ -29,7 +29,7 @@
 - **EDA with Pandas** → Notebooks with clear insights and visualizations  
 - **BI Dashboard** → KPI dashboard (Tableau/Looker Studio)  
 
-➡️ Check my portfolio repository: **data-portfolio**
+➡️ Check my portfolio repository: [**Repository Access Link**](https://github.com/M-Seiti/data-portfolio)
 ---
 
 ### 📫 Contact
