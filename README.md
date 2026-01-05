@@ -23,11 +23,27 @@
 
 ---
 
-### 🚀 Featured Projects
-- **ETL Pipeline (Python + SQL)** → Extract/Transform/Load + data quality checks  
-- **SQL Performance Lab** → EXPLAIN, indexes, query optimization  
-- **EDA with Pandas** → Notebooks with clear insights and visualizations  
-- **BI Dashboard** → KPI dashboard (Tableau/Looker Studio)  
+## 🚀 Featured Projects
+
+### 📊 Dashboard — Time Series Analytics  
+Data preparation and time series insights via an interactive dashboard.  
+**Tech:** Python, Pandas, Streamlit.  
+🛠️ in progress...
+🔗 Repository: [**Time Series Dashboard Repository Link**](https://github.com/M-Seiti/Dashboard-Series-Temporais)
+
+---
+
+### 🌐 Web Development Final Project  
+Full web application project delivery, from backend to frontend.  
+**Tech:** HTML, CSS, JavaScript, PHP, Python, SQL.  
+🔗 Repository: [**Web Development Final Project Link**](https://github.com/Rafarockdf/TrabalhoFinalWEB2)
+
+---
+
+### 🚀 NASA Space Apps 2025  
+Forecasting and Machine Learning solution using a real data pipeline.  
+**Tech:** Python, Pandas, Prophet.  
+🔗 Repository: [**Nasa Space Apps 2025 Repository Link**](https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025)
 
 ➡️ Check my portfolio repository: [**Repository Access Link**](https://github.com/M-Seiti/data-portfolio)
 ---
