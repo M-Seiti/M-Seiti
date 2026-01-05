@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Matheus Seiti</h2>
-<img align="right" height="150" src="https://i.pinimg.com/originals/32/88/2d/32882dbcd4424eb8e814ce8e62e68361.gif"/>
+<img align="right" height="150" src="https://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif"/>
 <p align="left">
   I’m a Information Systems student focused on Data Analytics / Data Engineering.<br/>
   I enjoy building ETL pipelines, writing efficient SQL queries, and creating dashboards.
