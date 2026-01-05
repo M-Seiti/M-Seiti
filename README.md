@@ -29,6 +29,7 @@
 Data preparation and time series insights via an interactive dashboard.  
 **Tech:** Python, Pandas, Streamlit.  
 🛠️ in progress...
+
 🔗 Repository: [**Time Series Dashboard Repository Link**](https://github.com/M-Seiti/Dashboard-Series-Temporais)
 
 ---
