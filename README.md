@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Matheus Seiti</h2>
-<img align="right" height="150" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif"/>
+<img align="right" height="150" src="https://stackoverflow.com/questions/59430100/problem-with-gif-with-transparent-background"/>
 <p align="left">
   I’m a Information Systems student focused on Data Analytics / Data Engineering.<br/>
   I enjoy building ETL pipelines, writing efficient SQL queries, and creating dashboards.
