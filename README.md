@@ -52,3 +52,5 @@ Forecasting and Machine Learning solution using a real data pipeline.
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/matheus-seiti-vicente-matsuoka-3818bb323/
 - Email: seitimatheus@gmail.com
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
