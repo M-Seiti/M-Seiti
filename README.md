@@ -1,56 +1,115 @@
-<h2 align="left">Hi 👋! My name is Matheus Seiti</h2>
-<img align="right" height="150" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Sphere_rotating_transparency.gif"/>
-<p align="left">
-  I’m a Information Systems student focused on Data Analytics / Data Engineering.<br/>
-  I enjoy building ETL pipelines, writing efficient SQL queries, and creating dashboards.
-</p>
+<!--
 
----
+                                       .-*#%%@@@%%#*-.
+                                   .=%@@@@%#######%%@@@%=.
+                                 :%@@@%%@@@@@@@@@@@@@@@@@@%:
+                               -%@@@@@@@@@@@@%%%@@@@@@@@@%*@%-
+                             .#@@@@@@@@%=..==-====+=+%@@@@@#*@%:
+                            .%@@@@@@@+.:*-          .*=*@@@@@=#@=
+                           :@@@@@@@= :*.               -+*@@@@%%@+
+                          .#@@@@@%:.+-                  .**@@@@*#@#.
+                          *@@@@@@= =-                     =*@@@@%@@#.
+                        .*@@@#*@* :*                       %@@@@@@*%@*.
+            .    ..::=+#%@@@=.:+. +=                       =@@@@@@@@@%#%%%%#+=.
+-**=-+#%%@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+-:::::::::.
 
-### 🔎 What I’m looking for
-- First internship opportunity in **Data Analytics / Data Engineering / BI**
-- I can learn fast, work well in teams, and I’m always improving my skills.
+                             .%=                             -=:
+                            %@@@%*:.=                    .-.=@@@=
+                            -@@@@@@- +:                 ==@@@@@*
+                             *%@@@@@%..+:            .==%@@@@@%.
+                              =%@@@@@@%=.:---.. .:=-=+%@@@@@@#.
+                               :##@@@@@@@@%*-:::=*%@@@@@@@@#=
+                                 :#*%@@@@@@@@@@@@@@@@@@@%%=
+                                   .=*#*%@@@@%%%@@@@%%#+:
+                                       .=*##*****##+:
 
----
+     you found it. the rest is just markdown.
 
-### 🧰 Tech Stack (Data)
-- **Python** (Pandas, Matplotlib, Streamlit, Plotly, sqlalchemy), **SQL**
-- **ETL / Data Pipelines** (CSV/APIs → transform → load)
-- **Jupyter Notebooks**
-- **BI**: Tableau (learning), Looker Studio (learning), Superset (learning)
-- **Web Analytics**: GA4 / GTM (basic)
-- **Git/GitHub**
+-->
 
----
+<div align="center">
 
-## 🚀 Featured Projects
+<img src="./card.svg" alt="matheus seiti — data" width="100%"/>
 
-### 📊 Dashboard — Time Series Analytics  
-Data preparation and time series insights via an interactive dashboard.  
-**Tech:** Python, Pandas, Streamlit.  
-🛠️ in progress...
+<br/><br/>
 
-🔗 Repository: [**Time Series Dashboard Repository Link**](https://github.com/M-Seiti/Dashboard-Series-Temporais)
+<a href="https://www.linkedin.com/in/matheus-seiti-vicente-matsuoka-3818bb323/"><img src="https://img.shields.io/badge/linkedin-141414?style=flat-square&logo=linkedin&logoColor=00D4A0"/></a>
+<a href="mailto:seitimatheus@gmail.com"><img src="https://img.shields.io/badge/email-141414?style=flat-square&logo=maildotru&logoColor=00D4A0"/></a>
+<a href="https://github.com/M-Seiti/data-portfolio"><img src="https://img.shields.io/badge/portfolio-141414?style=flat-square&logo=github&logoColor=00D4A0"/></a>
 
----
+</div>
 
-### 🌐 Web Development Final Project  
-Full web application project delivery, from backend to frontend.  
-**Tech:** HTML, CSS, JavaScript, PHP, Python, SQL.  
-🔗 Repository: [**Web Development Final Project Link**](https://github.com/Rafarockdf/TrabalhoFinalWEB2)
+<br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00D4A0,100:0d1117&height=2" width="100%"/>
+</div>
 
-### 🚀 NASA Space Apps 2025  
-Forecasting and Machine Learning solution using a real data pipeline.  
-**Tech:** Python, Pandas, Prophet.  
-🔗 Repository: [**Nasa Space Apps 2025 Repository Link**](https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025)
+### `work`
 
-➡️ Check my portfolio repository: [**Repository Access Link**](https://github.com/M-Seiti/data-portfolio)
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/matheus-seiti-vicente-matsuoka-3818bb323/
-- Email: seitimatheus@gmail.com
+**time series dashboard**<br/>
+<sub>in progress</sub>
 
-<img src="https://raw.githubusercontent.com/M-Seiti/M-Seiti/output/snake.svg" alt="Snake animation" />
+preparação de dados e análise de séries temporais em dashboard interativo.
+
+<sub>`python` `pandas` `streamlit`</sub>
+
+[**→ repo**](https://github.com/M-Seiti/Dashboard-Series-Temporais)
+
+</td>
+<td width="33%" valign="top">
+
+**nasa space apps 2025**<br/>
+<sub>shipped</sub>
+
+previsão e machine learning sobre um pipeline de dados real.
+
+<sub>`python` `pandas` `prophet`</sub>
+
+[**→ repo**](https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025)
+
+</td>
+<td width="33%" valign="top">
+
+**web application**<br/>
+<sub>shipped</sub>
+
+aplicação web completa, do backend ao frontend.
+
+<sub>`js` `php` `python` `sql`</sub>
+
+[**→ repo**](https://github.com/Rafarockdf/TrabalhoFinalWEB2)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00D4A0,100:0d1117&height=2" width="100%"/>
+</div>
+
+### `activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Seiti&bg_color=00000000&color=8B8B8B&line=00D4A0&point=E8E8E8&area=true&area_color=00D4A0&hide_border=true&hide_title=true&custom_title=" width="100%"/>
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=M-Seiti&show_icons=true&hide_border=true&hide_title=true&hide=issues&title_color=00D4A0&icon_color=00D4A0&text_color=8B8B8B&bg_color=00000000"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Seiti&layout=compact&hide_border=true&hide_title=true&langs_count=6&text_color=8B8B8B&bg_color=00000000"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00D4A0,100:0d1117&height=2" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/M-Seiti/M-Seiti/output/snake.svg" alt="" width="100%"/>
+
+<sub>**"data is the new oil — but only if you know how to refine it."**</sub>
+
+<sub>`raw data → clean data → decisions`</sub>
+
+</div>
