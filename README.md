@@ -49,7 +49,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **time series dashboard**<br/>
 <sub>in progress</sub>
@@ -61,7 +61,7 @@ preparação de dados e análise de séries temporais em dashboard interativo.
 [**→ repo**](https://github.com/M-Seiti/Dashboard-Series-Temporais)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **nasa space apps 2025**<br/>
 <sub>shipped</sub>
@@ -73,7 +73,7 @@ previsão e machine learning sobre um pipeline de dados real.
 [**→ repo**](https://github.com/Rafarockdf/WillItRainOnMyParade_HACKATON_NASA_2025)
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **web application**<br/>
 <sub>shipped</sub>
